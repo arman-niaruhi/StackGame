@@ -49,3 +49,16 @@ Enter Destination Stack: 2
 ...
 
 You Won the Game!
+
+## How to Clone, Compile, and Run
+
+### Prerequisites
+- A C++ compiler (e.g., `g++`, `clang++`).
+- `git` installed on your system.
+
+### Step 1: Clone the Repository
+To clone the repository, open a terminal and run the following command:
+
+```bash
+git clone https://github.com/yourusername/your-repository-name.git
+
