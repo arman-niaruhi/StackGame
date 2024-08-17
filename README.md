@@ -26,6 +26,7 @@ To clone the repository, open a terminal and run the following command:
 ```bash
 git clone https://github.com/yourusername/your-repository-name.git
 
+```
 
 ## Example Gameplay
 ```text
