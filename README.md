@@ -14,16 +14,18 @@ This is a simple console-based game where you have four stacks labeled 1 to 4. T
 - A stack that already contains 4 symbols cannot accept any more symbols.
 - You win the game when all four stacks either contain identical symbols or are empty.
 
-## How to Run
-1. Compile the game using a C++ compiler.
-2. Run the executable.
-3. Follow the on-screen prompts to move symbols between stacks.
-4. Keep rearranging until all stacks are uniform.
+## How to Clone, Compile, and Run
 
-## Code Structure
-- **AllElementsSameFunctor**: A functor used to check if all elements in a stack are identical.
-- **printStack**: A function to display the current contents of a stack.
-- **main**: The main function where the game logic is implemented, including the random distribution of symbols and the game loop.
+### Prerequisites
+- A C++ compiler (e.g., `g++`, `clang++`).
+- `git` installed on your system.
+
+### Step 1: Clone the Repository
+To clone the repository, open a terminal and run the following command:
+
+```bash
+git clone https://github.com/yourusername/your-repository-name.git
+
 
 ## Example Gameplay
 ```text
@@ -50,15 +52,4 @@ Enter Destination Stack: 2
 
 You Won the Game!
 
-## How to Clone, Compile, and Run
-
-### Prerequisites
-- A C++ compiler (e.g., `g++`, `clang++`).
-- `git` installed on your system.
-
-### Step 1: Clone the Repository
-To clone the repository, open a terminal and run the following command:
-
-```bash
-git clone https://github.com/yourusername/your-repository-name.git
 
