@@ -24,7 +24,7 @@ This is a simple console-based game where you have four stacks labeled 1 to 4. T
 To clone the repository, open a terminal and run the following command:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/arman-niaruhi/StackGame.git
 
 ```
 
